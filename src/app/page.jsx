@@ -1,3 +1,5 @@
+"use client"
+
 import HomeListing from "@/components/listing/HomeListing";
 import { store } from "@/store/store";
 import { Provider } from "react-redux";
